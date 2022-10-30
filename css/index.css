@@ -1,6 +1,0 @@
-@import "palette.css"; /* Using a string */
-
-
-.body {
-    background-color: var(--1hex);
-}
